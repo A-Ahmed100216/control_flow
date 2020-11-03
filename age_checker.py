@@ -1,3 +1,5 @@
+# Task- Create a age checker which a cinema could use
+
 # First we take the user's age
 age=int(input("Please enter your age: "))
 
