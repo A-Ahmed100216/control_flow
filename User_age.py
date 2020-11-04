@@ -1,5 +1,4 @@
-# Task- Calculating user year of birth
-
+# Task 2 - Calculating user year of birth
 
 # Part 1
 # Define the variables `age` and `name`
@@ -9,7 +8,6 @@ name="Harry"
 year=2020-23
 # Print out "OMG <person>,you are <age> years old so you were born in <year>"
 print("OMG {}, you are {} years old so you were born in {}".format(name,age,year))
-
 
 
 # Part 2
